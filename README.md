@@ -1,2 +1,2 @@
 # urequests
-urequest library for micropython (tested in ESP32)
+urequest library for micropython (tested on ESP32)
